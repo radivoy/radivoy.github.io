@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Radivoy</title>
-	<atom:link href="https://radivoy.github.io/radivoy_static/es/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://radivoy.github.io/es/feed/" rel="self" type="application/rss+xml" />
 	<link>https://radivoy.github.io/radivoy_static</link>
 	<description>UI designer &#38; web developer</description>
 	<lastBuildDate>Mon, 17 Jan 2022 01:25:04 +0000</lastBuildDate>
